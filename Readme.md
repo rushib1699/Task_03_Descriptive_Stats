@@ -22,6 +22,15 @@ Each script performs the following analysis:
       * The same analysis is performed after aggregating data by `page_id`.
       * The analysis is repeated after aggregating by both `page_id` and `ad_id`.
 
+
+Bonus Challenge: Visualizations & Narrative
+As part of a bonus challenge, a fourth script, 
+
+bonus_visualizations.py, was created to produce supporting visualizations and develop a compelling narrative from the data. This involved creating histograms, bar charts, and boxplots to tell a story about the findings.
+
+
+
+
 ## Instructions to Run the Code
 
 1.  **Clone the repository:**
